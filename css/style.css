@@ -1,0 +1,123 @@
+
+
+.head-main {
+	background-color: cadetblue;
+	font-family: 'AeroMatics';
+	font-weight: 700;
+	font-style: normal;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 50px;
+}
+
+.head {
+	width: 700px;
+	background-color: rgb(42, 144, 105, 0.5);
+	font-family: 'AeroMatics';
+	font-weight: 700;
+	font-style: italic;
+	font-size: 25px;
+	line-height: 30px;
+	margin: 5px 0px 0px 825px;
+	padding: 25px 10px 500px 20px;
+	text-shadow: 2px 2px 5px #000;
+	color: rgb(123, 138, 38);
+}
+
+
+
+.content-head {
+	background-color: brown;
+	margin-top: -300px;
+	width: 1300px;
+}
+
+h2 {
+	font-family: 'Merriweather';
+	font-weight: 900;
+	text-align: center;
+	font-size: 30px;
+	color: burlywood;
+}
+.content {
+	font-family: 'Merriweather';
+	font-weight: 700;
+	font-style: italic;
+	color: aliceblue;
+	padding: 50px 0px 50px 0px;
+}
+
+.content-h,
+.content-m,
+.content-f,
+.text-m,
+.text-f {
+	padding: 15px 0px 0px 0px;
+}
+
+.content > p {
+	font-family: 'Merriweather';
+	font-style: italic;
+	text-indent: 20px;
+}
+
+.content-h {
+	font-weight: 400;
+	background-color: #000;
+	color: rgba(192, 219, 16, 0.7);
+	font-size: 20px;
+	padding: 10px;
+	margin: 0px 0px 0px 10px;
+	text-shadow: 2px 2px 5px rgb(254, 254, 254);
+}
+
+.content-m {
+	font-size: 15px;
+	color: red;
+	background-color: aqua;
+	margin: 10px 300px 0px 0px;
+	padding: 15px;
+}
+
+.content-f {
+	background-color: chartreuse;
+	color: #000;
+	font-weight: 900;
+	font-size: 21px;
+	margin: 0px 60px 0px 100px;
+	padding: 10px;
+	text-shadow: 2px 2px 5px rgb(227, 141, 61);
+}
+
+.text-m {
+	font-family: 'AeroMatics';
+	background-color: bisque;
+	color: darkblue;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.text-f {
+	background-color: rgb(103, 103, 103);
+	color: darkgoldenrod;
+	font-family: 'Merriweather';
+	text-align: center;
+	font-size: 30px;
+	margin: 15px;
+	padding: 15px;
+
+}
+
+.link {
+	background-color: black;
+}
+
+.link a {
+	font-family: 'AeroMatics';
+	color: yellow;
+	padding: 0px 0px 0px 150px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-size: 40px;
+
+}
